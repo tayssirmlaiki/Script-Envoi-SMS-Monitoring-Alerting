@@ -1,0 +1,3 @@
+destinations="+21600000000"
+from_sms="nom_message"
+data_file="/path_du_script/data/messages.csv"
